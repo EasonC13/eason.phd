@@ -42,17 +42,19 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  
+  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
+  
   - block: experience
     content:
-      title: Experience
+      title: Industry Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -62,71 +64,116 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Researcher
+          company: Bucket Protocol
+          company_url: 'https://bucketprotocol.io'
+          company_logo: bucket_logo
+          location: Taipei, Taiwan
+          date_start: '2023-05-01'
+          date_end: '2023-08-31'
+          description: |2-
+              * Assisted in building the biggest Collateralized Debt Position (CDP) protocol on Sui Network
+              * Developed [GPTutor, a ChatGPT-powered programming tool for smart contract code explain](https://gptutor.tools/). Awarded a 50k grant from the Sui Foundation, and result presented as poster at AIED’23 and workshop at CSCW’23
+              * Led the Bucket Raffle System project, securing 1st place at Sui Builder House with 10k prize
+        - title: Research and Development Engineer
+          company: Cohart
+          company_url: 'https://cohart.com/'
+          company_logo: joincohart_logo
+          location: San Francisco, California (Remote)
+          date_start: '2022-04-01'
+          date_end: '2023-04-01'
+          description: |2-
+            - Co-work with teammates from Vietnam, Malaysia, Türkiye, and US
+            - Researched on Non-fungible token (NFT) Solutions for Art Creators on Ethereum Blockchain
+            - Educated colleagues on tips and principles for developing Blockchain applications
+        - title: Google Summer of Code Mentee
+          company: Accord Project
+          company_url: 'https://summerofcode.withgoogle.com/projects/#6124590243250176'
+          company_logo: Accord_Project_Logo
+          location: Online
+          date_start: '2021-05-16'
+          date_end: '2021-08-31'
+          description: |2-
+            - Contributed to Accord Project, an open source framework for Smart Legal Contracts
+            - Researched on Conversion of Raw Text Legal Agreements into Smart Legal Contracts using NLP
+            - Co-work with various open-source contributors from University College London(UCL), [Docusign](https://www.docusign.com), and [Mishcon de Reya](https://www.mishcon.com)
+            - Results present at workshop of [POPL 2022](https://popl22.sigplan.org/details/prolala-2022-papers/8/Ergo-a-programming-language-for-Smart-Legal-Contracts) and [WWW 2023](https://dl.acm.org/doi/abs/10.1145/3543873.3587554) as paper
+        - title: Research and Development Engineer
+          company: FiO
+          company_url: 'https://fio.one'
+          company_logo: fio_logo
+          location: San Francisco, California (Remote)
+          date_start: '2019-06-01'
+          date_end: '2021-12-31'
+          description: |2-
+            - Built easy-to-use and GDPR compliance Blockchain Applications on Ethereum and IOTA for Educational Purpose
+            - Received Best Intern Award for the implementation of data authentication process on FiO’s product
+            - Researched on Blockchain Performance Optimization, results are patent pending
+    design:
+      columns: '1'
+  - block: experience
+    content:
+      title: Academic Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Undergraduate Research Project Principal Investigator
+          company: Ministry of Science and Technology
           company_url: ''
-          company_logo: org-gc
+          company_logo: National_Taiwan_Normal_University_logo
           location: California
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              - Served as RA for 7 professors with various topics
+              - Developed interactive creativity task platform and analyze the data, results published to Q1 SSCI journal
+              - Used GPT-2 and BERT to build NLP chatbots with emotional and empathetic conversational abilities to accompany elders
+              - Implemented Integrated Data Export Pipeline by Flask, Vue, and Google Cloud APIs, export data as path analysis input
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
+        - title: Research Assistant
+          company: National Taiwan Normal University
+          company_url: 'https://en.ntnu.edu.tw/p-LearningSciences.php'
+          company_logo: National_Taiwan_Normal_University_logo
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              - Served as RA for 7 professors with various topics at NTNU and National Taiwan University
+              - Developed interactive creativity task platform and analyze the data, results published to Q1 SSCI journal
+              - Used GPT-2 and BERT to build NLP chatbots with emotional and empathetic conversational abilities to accompany elders
+              - Implemented Integrated Data Export Pipeline by Flask, Vue, and Google Cloud APIs, export data as path analysis input
     design:
-      columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
-    design:
-      columns: '2'
+      columns: '1'
+  # - block: accomplishments
+  #   content:
+  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+  #     title: 'Accomplish&shy;ments'
+  #     subtitle:
+  #     # Date format: https://docs.hugoblox.com/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Accomplishments.
+  #     #   Add/remove as many `item` blocks below as you like.
+  #     #   `title`, `organization`, and `date_start` are the required parameters.
+  #     #   Leave other parameters empty if not required.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - certificate_url: https://www.edx.org
+  #         date_end: ''
+  #         date_start: '2021-01-01'
+  #         description: Formulated informed blockchain models, hypotheses, and use cases.
+  #         icon: edx
+  #         organization: edX
+  #         organization_url: https://www.edx.org
+  #         title: Blockchain Fundamentals
+  #         url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  #   design:
+  #     columns: '2'
   - block: collection
     id: posts
     content:
@@ -237,7 +284,7 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: EasonC13@cmu.edu
       phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
