@@ -1,9 +1,19 @@
-.card-title.exp-company {
+.dark .card-title.exp-company {
   a {
     color: white !important;
 
     &:hover {
       color: #bbdefb !important;
+    }
+  }
+}
+
+.card-title.exp-company {
+  a {
+    color: black !important;
+
+    &:hover {
+      color: #1565c0 !important;
     }
   }
 }

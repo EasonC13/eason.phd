@@ -96,19 +96,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Eason_C13
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.tw/citations?user=SMOPejMAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/EasonC13
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/easonc13/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,6 +120,6 @@ social:
 highlight_name: true
 ---
 
-Hi, I'm Eason from CMU HCII. In high school, I was a problem student, frequently skipping class and engrossed in gaming for over 12 hours daily. Surprisingly, gaming taught me the value of deliberate practice. Applying these strategies, I transformed my academic performance, earning numerous university awards. My fluctuating study efficiency inspired me to major in Learning Sciences, eager to discover productivity-enhancing educational tools. Ultimately, I aim to help others reach their full their potential through education. Additionally, I'm intrigued by the fair and transparency offered by Blockchain Technology and have three years of Web3 industry experience.
+Hi, I'm Eason from CMU HCII. In high school, I was a problem student, frequently skipping class and engrossed in gaming for over 12 hours daily. Surprisingly, gaming taught me the value of deliberate practice. Applying these strategies, I transformed my academic performance, earning numerous university awards. These experiences inspired me to research in Learning Sciences and Human-Comter Interaction, eager to discover productivity-enhancing educational tools. Ultimately, I aim to help others reach their full their potential through education. Additionally, I'm intrigued by the fair and transparency offered by Blockchain Technology and have three years of Web3 industry experience.
 
 {style="text-align: justify;"}
