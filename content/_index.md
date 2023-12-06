@@ -232,6 +232,22 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   
+  # - block: markdown
+  #   content:
+  #     title: Meme
+  #     subtitle: 'I love making memeful photos'
+  #     text: |-
+  #       {{< gallery album="memes" >}}
+  #   design:
+  #     columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="meme">}}
+  #   design:
+  #     columns: '1'
   - block: markdown
     content:
       title: Gallery
