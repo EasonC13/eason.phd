@@ -219,12 +219,14 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Learning Sciences
-          tag: Learning Sciences
+        - name: Education
+          tag: Education
         - name: Blockchain
           tag: Blockchain
         - name: HCI
           tag: HCI
+        - name: AI
+          tag: AI
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

@@ -41,7 +41,7 @@ education:
   courses:
     - course: PhD in Human-Computer Interaction Institute
       institution: Carnegie Mellon University
-      year: 2028 (Expected)
+      year: School of Computer Science, 2028 (Expected)
     - course: Bachelor of Information Science
       institution: National Taiwan Normal University
       year: 2023
