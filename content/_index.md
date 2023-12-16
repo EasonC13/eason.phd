@@ -54,7 +54,7 @@ sections:
   
   - block: experience
     content:
-      title: Industry Experience
+      title: Industry Experiences
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -113,7 +113,7 @@ sections:
       columns: '1'
   - block: experience
     content:
-      title: Academic Research Experience
+      title: Academic Research Experiences
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
