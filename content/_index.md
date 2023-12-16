@@ -113,7 +113,7 @@ sections:
       columns: '1'
   - block: experience
     content:
-      title: Academic Experience
+      title: Academic Research Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -123,28 +123,38 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: PhD Student Researcher
+          company: Carnegie Mellon University
+          company_url: ''
+          company_logo: cmu_logo
+          location: Pittsburgh, PA
+          date_start: '2023-08-01'
+          date_end: ''
+          description: |2-
+              
+
         - title: Undergraduate Research Project Principal Investigator
           company: Ministry of Science and Technology
           company_url: ''
           company_logo: National_Taiwan_Normal_University_logo
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Taipei, Taiwan
+          date_start: '2021-05-01'
+          date_end: '2022-02-01'
           description: |2-
-              - Served as RA for 7 professors with various topics
-              - Developed interactive creativity task platform and analyze the data, results published to Q1 SSCI journal
-              - Used GPT-2 and BERT to build NLP chatbots with emotional and empathetic conversational abilities to accompany elders
-              - Implemented Integrated Data Export Pipeline by Flask, Vue, and Google Cloud APIs, export data as path analysis input
+              - Researched on Building Natural Language Generation Chatbots which features multiple-reply and custom avatars with chosen emotion
+              - Compared the user experience of different chatbot designs, such as different layouts, avatars, and prompts
+              - Results rewarded 2nd place at 2023 CHI Student Research Competition. Published to TAICHI 2021, CHI-EA'2022, CHI-EA'2023, and UCNLP workshop at WWW 2022 as paper.
+
 
         - title: Research Assistant
           company: National Taiwan Normal University
           company_url: 'https://en.ntnu.edu.tw/p-LearningSciences.php'
           company_logo: National_Taiwan_Normal_University_logo
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Taipei, Taiwan
+          date_start: '2019-04-01'
+          date_end: '2023-08-31'
           description: |2-
-              - Served as RA for 7 professors with various topics at NTNU and National Taiwan University
+              - Served as Research Assistant for 7 professors with various topics at NTNU and National Taiwan University
               - Developed interactive creativity task platform and analyze the data, results published to Q1 SSCI journal
               - Used GPT-2 and BERT to build NLP chatbots with emotional and empathetic conversational abilities to accompany elders
               - Implemented Integrated Data Export Pipeline by Flask, Vue, and Google Cloud APIs, export data as path analysis input

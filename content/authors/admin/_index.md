@@ -29,7 +29,7 @@ bio: Eason is a first-year PhD student in HCII at CMU.
 
 # Interests to show in About widget
 interests:
-  - Learning Science
+  - Learning Sciences
   - Educational Techlogy
   - Learning Analytics
   - AI in Education
