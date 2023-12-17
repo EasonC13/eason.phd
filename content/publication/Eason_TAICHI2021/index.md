@@ -1,37 +1,38 @@
 ---
-title: "Focus Plus: Detect Learner's Distraction by Web Camera in Distance Teaching"
+title: "陪聊型聊天機器⼈的頭像與回覆數量對使用體驗的影響"
 authors:
 - admin
 - Yuen Hsien Tseng
-- Kuo-Ping Lo
-date: "2021-10-01T00:00:00Z"
-doi: "https://doi.org/10.48550/arXiv.2210.04400"
+- Guo-Li Chiou
+- Chien-Wen Tina Yuan
+date: "2021-07-01T00:00:00Z"
+# doi: "https://doi.org/10.48550/arXiv.2210.04400"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-10-01T00:00:00Z"
+publishDate: "2021-07-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["conference-article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: "In Education Senimar"
+publication: "Taiwan Computer-Human Interaction Conference"
+publication_short: "TAICHI"
 
-abstract: Distance teaching has become popular these years because of the COVID-19 epidemic. However, both students and teachers face several challenges in distance teaching, like being easy to distract. We proposed Focus+, a system designed to detect learners' status with the latest AI technology from their web camera to solve such challenges. By doing so, teachers can know students' status, and students can regulate their learning experience. In this research, we will discuss the expected model's design for training and evaluating the AI detection model of Focus+.
+abstract: 本研究探討 AI 陪聊型聊天機器⼈的不同設計對使⽤體 驗帶來的影響。本研究採⽤ 2x2 ⼆因⼦重複測量變異數 分析，⽐較與匿名頭像、動漫頭像聊天，以及每次發⾔ 收到⼀則回覆或五則回覆，所帶來的使⽤體驗分數差異。 在找到 98 名受試者進⾏評估後，發現⽐起匿名頭像或 僅收到⼀則回覆，受試者與動漫頭像或有多則回覆的聊 天機器⼈聊天，會有更好的使⽤體驗分數，其中提供多 則回覆的分數提升較⼤，因為受試者傾向注意適合回應 並忽略不適合回應。並且，如果同時提供動漫頭像與多 則回覆，能得到最⾼的使⽤體驗得分。
 
 # Summary. An optional shortened abstract.
-summary: In this research, we discussed the expected model's design for training and evaluating the AI detection model of Focus+.
+# summary: In this research, we discussed the expected model's design for training and evaluating the AI detection model of Focus+.
 
 tags:
-- Source Themes
+# - Source Themes
 featured: false
 
 links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_pdf: /uploads/怡升_TAICHI2021_論文_final.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
@@ -43,7 +44,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
