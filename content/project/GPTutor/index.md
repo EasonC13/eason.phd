@@ -1,0 +1,161 @@
+---
+title: GPTutor
+summary: GPTutor(🤖,🤖) is a Visual Studio Code extension using OpenAI's GPT models to enhance code understanding and improve coding skills. As an an open-source AI pair programming tool, GPTutor offers code explanations, reviews, and customizable prompts for over 50 programming languages.
+tags:
+  - Blockchain
+  - HCI
+  - AI
+  - Education
+date: '2023-06-30T00:00:00Z'
+
+# Optional external URL for project (replaces project detail page).
+external_link: ''
+
+image:
+  # caption: Photo by rawpixel on Unsplash
+  # focal_point: Smart
+
+links:
+  - name: GitHub
+    url: https://github.com/GPTutor/gptutor-extension
+  - name: Paper at AIED poster
+    url: https://arxiv.org/abs/2305.01863
+  - name: Paper at CSCW workshop
+    url: https://arxiv.org/abs/2310.13896
+    
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: 'https://www.youtube.com/watch?v=uTNXQuKrnKI'
+
+---
+GPTutor(🤖,🤖) is a Visual Studio Code extension that uses OpenAI's GPT (Generative Pre-trained Transformer) models to provide users with code explanations and Reviews for a better understanding of their code and enabling users to get insights into code blocks and improve their coding skills. (Supported Move programming languages now)
+
+### [Download GPTutor now (click me)](https://marketplace.visualstudio.com/items?itemName=gptutor.gptutor)
+
+## Features
+
+- Code tutor using OpenAI's GPT models.
+- Code Review (review) using OpenAI's GPT models.
+- Code comment using OpenAI's GPT models.
+- Supports Move language for now.
+- Non-custodial API key (100% Free and we don't own your key).
+- Supported GPT-4 model (default GPT-3.5)
+
+## Getting Started
+
+### 1. Install the GPTutor(🤖,🤖) in your Visual Studio Code editor from Extensions
+  <img width="274" alt="截圖 2023-06-11 下午4 00 56" src="https://github.com/GPTutor/gptutor-extension/assets/84802160/94fe1248-5308-42a8-b836-2f1694a9c5c9">
+<br/>
+<br/>
+
+### 2. Activate the GPTutor by clicking 🤖 at the left side panel. You might find GPTutor in the "Additional Views" button.
+
+
+
+
+<img width="1210" alt="image" src="https://github.com/GPTutor/gptutor-extension/assets/43432631/e3e99bd4-502b-4bda-8439-788d957c2ec1">
+
+
+<br/>
+<br/>
+
+### 3. Set OpenAI API key by pasting the key in the input box. You may follow the instruction to get an API key from [OpenAI's Webiste](https://platform.openai.com/account/api-keys)
+
+<img width="790" alt="截圖 2023-06-11 下午4 03 46" src="https://github.com/GPTutor/gptutor-extension/assets/43432631/afc028b6-a783-4f60-b598-12e97a2900c2">
+
+<br/>
+<br/>
+
+### 4. (Optional) Set the GPT model to be used by running the `GPTutor: setModel` Command
+```
+> GPTutor: setModel
+```
+<br/>
+
+### 5. Hover over a code block to display GPTutor suggestions
+<img width="737" alt="截圖 2023-06-11 下午4 11 02" src="https://github.com/GPTutor/gptutor-extension/assets/84802160/08586281-04fb-489c-bbf7-eba6085abdd7">
+<br/>
+<br/>
+
+### 6. Choose the explain, Review or comment to help you
+<img width="880" alt="截圖 2023-06-11 下午4 13 03" src="https://github.com/GPTutor/gptutor-extension/assets/84802160/9990a600-e573-4590-809d-c9f060d7caf3">
+<br/>
+<br/>
+
+### 7. Click on the "Settings" button located at the top left corner to access additional configuration options. From there, you can customize settings such as Prompt, Model, or Output Language.
+<img width="552" alt="image" src="https://github.com/GPTutor/gptutor-extension/assets/43432631/dfb8559a-cad8-463f-96eb-e12c435c0ece">
+
+<br/>
+<br/>
+
+## Usage
+
+GPTutor provides three main features: `Explain`, `Comment`, and `Review` whhen you hover on the code you selected. Moreover, you can interact with GPTutor directly on the input box.
+
+
+### Code Explain
+
+1. Hover over a code block in a supported language.
+2. Click on the `Explain` option to get a thoughtful explanation of the selected code.
+
+### Code Comment
+
+1. Hover over a code block in a supported language.
+2. Click on the `Comment` option to get a commented and refactored version of the selected code.
+### Code Review
+
+1. Hover over a code block in a supported language.
+1. Click on the `Review` option to get an Review of the selected code.
+
+### Interact by Input Box
+
+1. Input the instruction
+2. Selected the mode, such as `Code Generate` and `Rewrite`
+3. Execute by `Ask GPTutor`.
+
+## Customize Prompt
+Follow the instructions [in this document](docs/Prompt.md) to customize the prompt. The default prompts is in set the [package.json](package.json), you are welcome to send pull requests for your awesome prompts.
+
+<!-- 
+## Extension Settings
+
+This extension contributes the following settings:
+
+- `> GPTutor: setKey`: Set your OpenAI API key.
+- `> GPTutor: setModel`: Set the GPT model (GPT3.5 or GPT4) to be used.
+- `> GPTutor: edit prompts`: Edit your prompt to customized your needs. -->
+
+## Requirements
+
+- Visual Studio Code
+- OpenAI API key
+
+## License
+
+This project is licensed under the MIT License. See the [License.txt](https://github.com/GPTutor/gptutor-extension/blob/main/LICENSE.md) file for more information.
+
+## Paper Reference
+
+Paper 1 introduce GPTutor: https://arxiv.org/abs/2305.01863
+
+```
+@article{chen2023gptutor,
+  title={GPTutor: a ChatGPT-powered programming tool for code explanation},
+  author={Chen, Eason and Huang, Ray and Chen, Han-Shin and Tseng, Yuen-Hsien and Li, Liang-Yi},
+  journal={arXiv preprint arXiv:2305.01863},
+  year={2023}
+}
+```
+
+Paper 2 that focus on customizable prompts: https://arxiv.org/abs/2310.13896
+
+```
+@article{chen2023gptutor,
+  title={GPTutor: an open-source AI pair programming tool alternative to Copilot},
+  author={Chen, Eason and Huang, Ray and Liang, Justa and Chen, Damien and Hung, Pierce},
+  journal={arXiv preprint arXiv:2310.13896},
+  year={2023}
+}
+```
+

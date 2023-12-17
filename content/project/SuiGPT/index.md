@@ -1,6 +1,6 @@
 ---
 title: SuiGPT
-summary: Through tailored Prompt Engineering, SuiGPT empowers GPT-4 to be proficient in the Move language, enabling it to generate corresponding Move code based on user instructions.
+summary: Through tailored Prompt Engineering, SuiGPT empowers GPT-4 to be proficient in the Move language, enabling it to generate corresponding Move code based on user instructions. SuiGPT is now ready to use at GPTutor extension.
 tags:
   - Blockchain
   - HCI
