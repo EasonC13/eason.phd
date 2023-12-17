@@ -2,7 +2,7 @@
 title: Focus Gift
 summary: Focus is a privacy-protected AI service aim to enhance online learning. Focus collects facial data via a webcam to aid self-regulated learning, including eye tracking and facial expressions. This data is processed locally in the user's browser, enabling learners to review and enhance their online learning experience, receiving positive initial feedback.
 tags:
-  - Learning Sciences
+  - Education
   - HCI
   - AI
 date: '2022-07-31T00:00:00Z'
