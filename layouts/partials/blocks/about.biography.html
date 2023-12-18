@@ -43,13 +43,17 @@
             <ruby>
               <rb>{{ $person_page.Title }}</rb>
               <rt>{{ $person.name_pronunciation }}</rt>
+              
             </ruby>
           {{- else -}}
             {{- $person_page.Title -}}
           {{- end -}}
         </h2>
+        {{with $person.email}}
+        <h3 class=""><a href="mailto:{{.}}">{{.}}</a></h3>
+        {{ end }}
 
-        {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+        {{ with $person.role }}<h3 class="">{{ . | markdownify | emojify }}</h3>{{ end }}
 
         {{ range $person.organizations }}
         <h3>

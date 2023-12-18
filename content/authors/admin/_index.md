@@ -17,7 +17,8 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 1st-year PhD Student at Human-Computer Interaction Institute,<br>School of Computer Science
+role: 1st-year PhD Student at Human-Computer Interaction Institute
+email: EasonC13@cmu.edu
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -91,17 +92,17 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'mailto:EasonC13@cmu.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Eason_C13
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com.tw/citations?user=SMOPejMAAAAJ
   - icon: github
     icon_pack: fab
@@ -109,12 +110,18 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/easonc13/
+  - icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/EasonC13
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/eason.c13/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: /uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
