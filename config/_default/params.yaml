@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'The website of Eason Chen, a passionate researcher who love to use programming skills and creativity to solve problems.'
+    twitter: 'Eason_C13'
   analytics:
     google_analytics: 'G-B8L1510BCX'
     baidu_tongji: ''
@@ -45,11 +45,11 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Eason Chen. This work is licensed under {license}'
+    notice: '© {year} Eason Chen. All Rights Reserved.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
