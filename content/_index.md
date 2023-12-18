@@ -89,7 +89,7 @@ sections:
         - title: Google Summer of Code Mentee
           company: Accord Project
           company_url: 'https://summerofcode.withgoogle.com/projects/#6124590243250176'
-          company_logo: Accord_Project_Logo
+          company_logo: gsoc_logo
           location: Online
           date_start: '2021-05-16'
           date_end: '2021-08-31'
