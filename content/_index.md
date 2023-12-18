@@ -131,6 +131,8 @@ sections:
           date_start: '2023-08-01'
           date_end: ''
           description: |2-
+              - Advisor: [Ken Koedinger](https://hcii.cmu.edu/people/ken-koedinger)
+              - Research in Learning Sciences, Education Technologies, and Learning Analytics
               
 
         - title: Undergraduate Research Project Principal Investigator
