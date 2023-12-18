@@ -15,7 +15,7 @@ publishDate: "2023-10-15T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["conference-article"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Presented at Workshop of Supporting User Engagement in Testing, Auditing, and Contesting AI at Conference on Computer-Supported Cooperative Work 2023 (CSCW)"
