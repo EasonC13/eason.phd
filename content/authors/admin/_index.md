@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 1st-year PhD Student at Human-Computer Interaction Institute
+role: 1st-year PhD Student at Human-Computer Interaction Institute,<br>School of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
