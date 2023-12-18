@@ -320,10 +320,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Academia
-          tag: Academia
         - name: Industry
           tag: Industry
+        - name: Academia
+          tag: Academia
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

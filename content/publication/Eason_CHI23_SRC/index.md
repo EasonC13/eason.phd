@@ -1,15 +1,11 @@
 ---
-title: 'Ergo--a programming language for Smart Legal Contracts'
+title: 'Which Factors Predict the Chat Experience of a Natural Language Generation Dialogue Service?'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Niall Roche 
-  - Walter Hernandez
   - admin
-  - Jérôme Siméon
-  - Dan Selman
 
 # Author notes (optional)
 # author_notes:
@@ -17,11 +13,11 @@ authors:
 #   - 
 #   - 'Equal contribution'
 
-date: '2022-01-01T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2112.07064'
+date: '2023-05-01T00:00:00Z'
+doi: 'https://doi.org/10.1145/3544549.3583940'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-01-01T00:00:00Z'
+publishDate: '2023-05-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,10 +25,10 @@ publishDate: '2022-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: Paper presented at *Programming Languages and the Law workshop at Principles of Programming Languages (POPL) Conference*
+publication: Paper published at *Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (CHI EA) 🏆
 # publication_short: In *Workshop of POPL 2022*
 
-abstract: "We present a smart legal contract platform to support a wide range of smart legal contract use cases. We see this as a step towards improving existing approaches to representing the complexity of legal agreements and executing aspects of these agreements. The smart contract is a coded computer program that will automatically execute when something triggers it. In contrast, the smart legal contract is a legal agreement in digital and executable code that connects terms and can interact with other software systems. Clack et al. (2016) provides an encompassing definition of smart contract and smart legal contract by considering the operational aspect and legal focus of both while basing the definition in the topics of automation and enforceability: “A smart contract is an automatable and enforceable agreement. Automatable by computer, although some parts may require human input and control. Enforceable either by legal enforcement of rights and obligations or via tamper-proof execution of computer code.”"
+abstract: "In this paper, we proposed a conceptual model to predict the chat experience in a natural language generation dialog system. We evaluated the model with 120 participants with Partial Least Squares Structural Equation Modeling (PLS-SEM) and obtained an R-square (R2) with 0.541. The model considers various factors, including the prompts used for generation; coherence, sentiment, and similarity in the conversation; and users’ perceived dialog agents’ favorability. We then further explore the effectiveness of the subset of our proposed model. The results showed that users’ favorability and coherence, sentiment, and similarity in the dialogue are positive predictors of users’ chat experience. Moreover, we found users may prefer dialog agents with characteristics of Extroversion, Openness, Conscientiousness, Agreeableness, and Non-Neuroticism. Through our research, an adaptive dialog system might use collected data to infer factors in our model, predict the chat experience for users through these factors, and optimize it by adjusting prompts."
 
 
 # Summary. An optional shortened abstract.
@@ -48,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2112.07064.pdf'
+url_pdf: 'https://arxiv.org/pdf/2304.10785.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''

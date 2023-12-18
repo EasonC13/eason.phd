@@ -1,15 +1,16 @@
 ---
-title: 'Ergo--a programming language for Smart Legal Contracts'
+title: 'Conversion of Legal Agreements into Smart Legal Contracts using NLP'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Niall Roche 
-  - Walter Hernandez
   - admin
-  - Jérôme Siméon
-  - Dan Selman
+  - Niall Roche
+  - Yuen-Hsien Tseng
+  - Walter Hernandez
+  - Jiangbo Shangguan
+  - Alastair Moore
 
 # Author notes (optional)
 # author_notes:
@@ -17,11 +18,11 @@ authors:
 #   - 
 #   - 'Equal contribution'
 
-date: '2022-01-01T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2112.07064'
+date: '2023-05-08T00:00:00Z'
+doi: 'https://doi.org/10.1145/3543873.3587554'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-01-01T00:00:00Z'
+publishDate: '2023-05-08T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,10 +30,10 @@ publishDate: '2022-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: Paper presented at *Programming Languages and the Law workshop at Principles of Programming Languages (POPL) Conference*
+publication: Paper published at Workshop of Natural Language Processing for Knowledge Graph Creation in Companion Proceedings of the Web Conference 2023 (WWW)
 # publication_short: In *Workshop of POPL 2022*
 
-abstract: "We present a smart legal contract platform to support a wide range of smart legal contract use cases. We see this as a step towards improving existing approaches to representing the complexity of legal agreements and executing aspects of these agreements. The smart contract is a coded computer program that will automatically execute when something triggers it. In contrast, the smart legal contract is a legal agreement in digital and executable code that connects terms and can interact with other software systems. Clack et al. (2016) provides an encompassing definition of smart contract and smart legal contract by considering the operational aspect and legal focus of both while basing the definition in the topics of automation and enforceability: “A smart contract is an automatable and enforceable agreement. Automatable by computer, although some parts may require human input and control. Enforceable either by legal enforcement of rights and obligations or via tamper-proof execution of computer code.”"
+abstract: "A Smart Legal Contract (SLC) is a specialized digital agreement comprising natural language and computable components. The Accord Project provides an open-source SLC framework containing three main modules: Cicero, Concerto, and Ergo. Currently, we need lawyers, programmers, and clients to work together with great effort to create a usable SLC using the Accord Project. This paper proposes a pipeline to automate the SLC creation process with several Natural Language Processing (NLP) models to convert law contracts to the Accord Project's Concerto model. After evaluating the proposed pipeline, we discovered that our NER pipeline accurately detects CiceroMark from Accord Project template text with an accuracy of 0.8. Additionally, our Question Answering method can extract one-third of the Concerto variables from the template text. We also delve into some limitations and possible future research for the proposed pipeline. Finally, we describe a web interface enabling users to build SLCs. This interface leverages the proposed pipeline to convert text documents to Smart Legal Contracts by using NLP models."
 
 
 # Summary. An optional shortened abstract.
@@ -48,7 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2112.07064.pdf'
+url_pdf: 'https://arxiv.org/pdf/2210.08954.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
