@@ -18,7 +18,7 @@ publishDate: "2022-10-01T00:00:00Z"
 publication_types: ["conference-article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "International Conference on Artificial Intelligence in Education (AIED)"
 publication_short: ""
 
 abstract: When sitting in front of a computer screen for online learning, students can be easily distracted by other sources on the Internet. To help students improve their online learning experience, we implemented a highly accessible AI service, which collected facial data from the web camera to assist self-regulated learning for students with privacy protection by way of edge computing. The service can capture self-learning metrics such as eye gazing points and facial expressions. Then the captured facial streaming data can be played back by the user. All steps are done locally at the users’ browser. The learners can review their online learning process to improve their learning efficiency through an interactive interface. Our preliminary evaluation showed promising feedback from real users.
