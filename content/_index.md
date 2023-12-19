@@ -102,7 +102,7 @@ sections:
           company: FiO
           company_url: 'https://fio.one'
           company_logo: fio_logo
-          location: San Francisco, California (Remote)
+          location: Taipei, Taiwan
           date_start: '2019-06-01'
           date_end: '2021-12-31'
           description: |2-
