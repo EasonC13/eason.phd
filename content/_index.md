@@ -308,7 +308,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Recommendations for Eason
+      title: Received Recommendations
       filters:
         folders:
           - recommendations
