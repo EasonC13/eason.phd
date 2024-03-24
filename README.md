@@ -1,5 +1,8 @@
 # [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
+Layout 的來源為  https://github.com/HugoBlox/hugo-blox-builder.git
+切換到對應的版本 Tag，目前為 v5.9.6
+
 [![Screenshot](./preview.png)](https://hugoblox.com/templates/)
 
 The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
