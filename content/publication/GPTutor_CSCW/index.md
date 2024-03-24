@@ -1,5 +1,5 @@
 ---
-title: "GPTutor: a ChatGPT-powered programming tool for code explanation"
+title: "GPTutor: an open-source AI pair programming tool alternative to Copilot"
 authors:
 - admin
 - Ray Huang
