@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 1st-year PhD Student at Human-Computer Interaction Institute
+role: 2nd-year PhD Student at Human-Computer Interaction Institute
 email: EasonC13@cmu.edu
 
 # Organizations/Affiliations to show in About widget

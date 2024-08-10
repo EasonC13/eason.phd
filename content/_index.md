@@ -70,7 +70,7 @@ sections:
           company_logo: mystenlabs_logo
           location: San Francisco, California (Remote)
           date_start: '2024-05-20'
-          # date_end: '2023-08-31'
+          date_end: '2023-08-20'
           # description: |2-
           #     * Working with Kostas Kryptos for Consensus Parallelization and Crypto Optimizations
         - title: Researcher
