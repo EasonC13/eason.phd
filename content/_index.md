@@ -64,15 +64,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Summer Research Intern
+        - title: Research Intern
           company: Mysten Labs
           company_url: 'https://mystenlabs.com'
           company_logo: mystenlabs_logo
           location: San Francisco, California (Remote)
           date_start: '2024-05-20'
-          date_end: '2023-08-20'
-          # description: |2-
-          #     * Working with Kostas Kryptos for Consensus Parallelization and Crypto Optimizations
+          # date_end: '2024-08-20'
+          description: |2-
+              * Working on something ALPHA, SECRET, FUN, and important
+              * Internship extended from summer to december
         - title: Researcher
           company: Bucket Protocol
           company_url: 'https://bucketprotocol.io'
