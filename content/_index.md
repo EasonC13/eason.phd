@@ -72,8 +72,9 @@ sections:
           date_start: '2024-05-20'
           # date_end: '2024-08-20'
           description: |2-
-              * Working on something ALPHA, SECRET, FUN, and important
-              * Internship extended from summer to december
+              * Working with [Kostas Kryptos](https://x.com/kostascrypto) on stuff that is ALPHA and SECRET, stay tuned.
+              * Working on using AI to help audit blockchain smart contracts.
+              * Working on optimizing blockchain interaction experiences using cryptography algorithm.
         - title: Researcher
           company: Bucket Protocol
           company_url: 'https://bucketprotocol.io'
