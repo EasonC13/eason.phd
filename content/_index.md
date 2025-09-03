@@ -64,18 +64,29 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Founder
+          company: GiveRep Labs
+          company_url: 'https://giverep.com'
+          company_logo: giverep_logo
+          location: British Virgin Island (Remote)
+          date_start: '2025-05-10'
+          # date_end: '2025-05-05'
+          description: |2-
+              * Social Fi and Info Fi platform on Sui Network
+              * First place in Sui Overflow hackathon with $30k prize
+              * Growth organic followers from 1k to 200k in a month
         - title: Research Intern
           company: Mysten Labs
           company_url: 'https://mystenlabs.com'
           company_logo: mystenlabs_logo
           location: San Francisco, California (Remote)
           date_start: '2024-05-20'
-          # date_end: '2024-08-20'
+          date_end: '2025-05-05'
           description: |2-
               * Working with [Kostas Kryptos](https://x.com/kostascrypto) on stuff that is ALPHA and SECRET, stay tuned.
               * Working on using AI to help audit blockchain smart contracts.
               * Working on optimizing blockchain interaction experiences using cryptography algorithm.
-        - title: Researcher
+        - title: Core Contributor
           company: Bucket Protocol
           company_url: 'https://bucketprotocol.io'
           company_logo: bucket_logo
