@@ -5,26 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: I-Sheng (Eason) Chen
-      image:
-        filename: hero-academic.png
-      cta:
-        label: View Publications
-        url: ./publication/
-      cta_alt:
-        label: View Projects
-        url: ./#projects
-      text: |-
-        PhD student at CMU HCII working on **AI in education**, **HCI**, **learning sciences**, and **agentic systems**.
-
-        I build personalized tutors, feedback systems, pedagogical agents, and learning tools for both humans and AI agents.
-    design:
-      background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
   - block: about.biography
     id: about
     content:
