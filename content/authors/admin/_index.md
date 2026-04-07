@@ -26,7 +26,7 @@ organizations:
     url: https://hcii.cmu.edu/people/i-sheng-eason-chen
 
 # Short bio (displayed in user profile at end of posts)
-bio: Eason is a first-year PhD student in HCII at CMU.
+bio: Eason is a PhD student in HCII at CMU working on AI in education, HCI, learning sciences, and agentic systems.
 
 # Interests to show in About widget
 interests:
@@ -130,6 +130,10 @@ social:
 highlight_name: true
 ---
 
-Hi, I'm Eason from CMU HCII. In high school, I was a problem student, frequently skipping class and engrossed in game for over 12 hours a day. Surprisingly, gaming taught me the value of deliberate practice. Applying these strategies, I get very high ranking in game and further transformed my academic performance, earning numerous awards at my undergrad. These experiences inspired me to research in Learning Sciences and Human-Comter Interaction, eager to discover productivity-enhancing educational tools. Ultimately, I aim to help others reach their full their potential through education. Additionally, I'm intrigued by the fair and transparency offered by Blockchain Technology and have four years of Web3 industry experience.
+Hi, I'm Eason, a PhD student at CMU HCII. My recent work spans AI in education, human-computer interaction, learning sciences, and agentic systems. I build and study tools such as personalized tutors, multimodal feedback systems, animated pedagogical agents, and large-scale AI learning communities.
+
+Before CMU, I worked across both academia and industry, including research on educational technology, prompt engineering, blockchain applications, and smart contracts. I care a lot about making advanced AI systems genuinely useful for learning, not just impressive in demos.
+
+Across my projects, I'm especially interested in how people, educators, and now AI agents themselves learn from feedback, communities, and adaptive support.
 
 {style="text-align: justify;"}
