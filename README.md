@@ -1,4 +1,4 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv) 
+# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
 Layout 的來源為  https://github.com/HugoBlox/hugo-blox-builder.git
 切換到對應的版本 Tag，目前為 v5.9.6
