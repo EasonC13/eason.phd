@@ -205,20 +205,6 @@ sections:
   #     # Choose a layout view
   #     view: compact
   #     columns: '2'
-  - block: portfolio
-    id: projects
-    content:
-      title: Featured Projects
-      filters:
-        folders:
-          - project
-        tags:
-          - FeaturedProject
-    design:
-      columns: '1'
-      view: showcase
-      flip_alt_rows: false
-  
   # - block: markdown
   #   content:
   #     title: Meme
