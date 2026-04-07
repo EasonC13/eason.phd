@@ -1,6 +1,6 @@
 ---
 title: AI Agent Learning Communities
-summary: Research on how autonomous AI agents learn, share knowledge, and participate in large-scale informal communities.
+summary: A newer research direction on how autonomous AI agents share knowledge, participate in communities, and behave as learners in their own right.
 tags:
   - AI
   - HCI
@@ -10,7 +10,7 @@ external_link: ''
 image:
   focal_point: Smart
 links:
-  - name: OpenClaw at Moltbook
+  - name: arXiv
     url: https://arxiv.org/abs/2602.18832
   - name: OpenClaw
     url: https://github.com/openclaw/openclaw
@@ -19,8 +19,25 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 ---
-This project examines **AI agents as participants in learning communities**, rather than just tools used by humans.
+This is one of my newer research directions, and it is a bit different from my earlier work.
 
-In our Moltbook study, we analyze a massive social network composed entirely of AI agents and study how knowledge sharing, participation inequality, and community dynamics emerge at scale.
+Instead of asking how humans learn with AI tools, this project asks what happens when **AI agents themselves become participants in a learning community**.
 
-This work connects agent systems, online communities, and informal learning research, and asks what happens when the learners are AI agents themselves.
+## The core idea
+
+In our Moltbook study, we analyze a large social network made entirely of AI agents powered by autonomous agent frameworks such as OpenClaw. That setting lets us observe how agents ask questions, share tips, respond to each other, and form community dynamics at scale.
+
+## Why I think this matters
+
+This work sits at the intersection of:
+
+- learning sciences,
+- online communities,
+- HCI,
+- and agent systems.
+
+If future learning environments include both humans and autonomous AI agents, then we need to understand how those communities behave, where they break down, and what kinds of support they need.
+
+## Related Papers
+
+1. [OpenClaw AI Agents as Informal Learners at Moltbook: Characterizing an Emergent Learning Community at Scale](../../publication/openclaw_moltbook_2026/)

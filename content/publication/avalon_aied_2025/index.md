@@ -9,7 +9,7 @@ authors:
 - Erik Thiessen
 - Kenneth R. Koedinger
 date: "2025-07-21T00:00:00Z"
-doi: "https://doi.org/10.1007/978-3-031-99267-4_14"
+doi: "10.1007/978-3-031-99267-4_14"
 publishDate: "2025-07-21T00:00:00Z"
 publication_types: ["paper-conference"]
 publication: "International Conference on Artificial Intelligence in Education (AIED 2025), Posters and Late Breaking Results"

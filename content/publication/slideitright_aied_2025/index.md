@@ -7,7 +7,7 @@ authors:
 - Kenneth R. Koedinger
 - Jionghao Lin
 date: "2025-05-07T00:00:00Z"
-doi: "https://doi.org/10.1007/978-3-031-98459-4_27"
+doi: "10.1007/978-3-031-98459-4_27"
 publishDate: "2025-05-07T00:00:00Z"
 publication_types: ["paper-conference"]
 publication: "International Conference on Artificial Intelligence in Education (AIED 2025)"

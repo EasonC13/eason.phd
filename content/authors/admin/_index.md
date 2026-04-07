@@ -26,7 +26,7 @@ organizations:
     url: https://hcii.cmu.edu/people/i-sheng-eason-chen
 
 # Short bio (displayed in user profile at end of posts)
-bio: Eason is a PhD student in HCII at CMU working on AI in education, HCI, learning sciences, and agentic systems.
+bio: Eason is a PhD student in HCII at CMU who builds AI systems for learning, feedback, and human-AI interaction.
 
 # Interests to show in About widget
 interests:
@@ -130,10 +130,10 @@ social:
 highlight_name: true
 ---
 
-Hi, I'm Eason, a PhD student at CMU HCII. My recent work spans AI in education, human-computer interaction, learning sciences, and agentic systems. I build and study tools such as personalized tutors, multimodal feedback systems, animated pedagogical agents, and large-scale AI learning communities.
+Hi, I'm Eason from CMU HCII. In high school, I was a problem student, frequently skipping class and spending over 12 hours a day gaming. Surprisingly, gaming taught me the value of deliberate practice. Applying those strategies, I started performing at a much higher level academically, won awards during my undergrad, and gradually found my way into research.
 
-Before CMU, I worked across both academia and industry, including research on educational technology, prompt engineering, blockchain applications, and smart contracts. I care a lot about making advanced AI systems genuinely useful for learning, not just impressive in demos.
+These experiences led me to Learning Sciences and Human-Computer Interaction. I care about building tools that genuinely help people learn better, whether that means personalized tutors, multimodal feedback systems, animated pedagogical agents, or new forms of human-AI interaction.
 
-Across my projects, I'm especially interested in how people, educators, and now AI agents themselves learn from feedback, communities, and adaptive support.
+Recently, my work has expanded into agentic systems and AI communities as well. Alongside my research in education and HCI, I also remain deeply interested in blockchain technology, especially where transparency, fairness, and real-world product design come together.
 
 {style="text-align: justify;"}

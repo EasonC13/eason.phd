@@ -19,7 +19,7 @@ sections:
       text: |-
         PhD student at CMU HCII working on **AI in education**, **HCI**, **learning sciences**, and **agentic systems**.
 
-        I build personalized tutors, multimodal feedback systems, animated pedagogical agents, and tools for understanding how humans and AI agents learn.
+        I build personalized tutors, feedback systems, pedagogical agents, and learning tools for both humans and AI agents.
     design:
       background:
         gradient_end: '#1976d2'

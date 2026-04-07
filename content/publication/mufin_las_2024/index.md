@@ -6,7 +6,7 @@ authors:
 - Ashish Gurung
 - Kenneth R. Koedinger
 date: "2024-07-10T00:00:00Z"
-doi: "https://doi.org/10.1145/3657604.3664720"
+doi: "10.1145/3657604.3664720"
 publishDate: "2024-07-10T00:00:00Z"
 publication_types: ["paper-conference"]
 publication: "Proceedings of the Eleventh ACM Conference on Learning@Scale (L@S 2024)"

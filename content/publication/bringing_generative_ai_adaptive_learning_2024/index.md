@@ -11,11 +11,11 @@ authors:
 - Jialin Tang
 - Qiushi Wen
 date: "2024-02-02T00:00:00Z"
-doi: "https://doi.org/10.48550/arXiv.2402.14601"
+doi: "10.48550/arXiv.2402.14601"
 publishDate: "2024-02-02T00:00:00Z"
-publication_types: ["article-journal"]
-publication: "arXiv preprint arXiv:2402.14601"
-publication_short: "arXiv"
+publication_types: ["arxiv"]
+publication: "Arxiv pre-print"
+publication_short: ""
 abstract: "This position paper examines the intersection of generative AI and adaptive learning. It outlines the benefits, challenges, and future potential of combining large language models and other generative models with adaptive educational systems to shape the next generation of learning environments."
 tags:
 - Adaptive Learning

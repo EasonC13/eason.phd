@@ -8,11 +8,11 @@ authors:
 - Xinyi Fang
 - Jionghao Lin
 date: "2024-10-14T00:00:00Z"
-doi: "https://doi.org/10.48550/arXiv.2410.11123"
+doi: "10.48550/arXiv.2410.11123"
 publishDate: "2024-10-14T00:00:00Z"
-publication_types: ["article-journal"]
-publication: "arXiv preprint arXiv:2410.11123"
-publication_short: "arXiv"
+publication_types: ["arxiv"]
+publication: "Arxiv pre-print"
+publication_short: ""
 abstract: "This systematic review analyzes empirical work from 2021 to 2024 on prompt engineering with large language models in K-12 STEM education. Following PRISMA, the study identifies common prompting strategies, model choices, evaluation methods, and limitations, and highlights the need for stronger real-world validation."
 tags:
 - Prompt Engineering

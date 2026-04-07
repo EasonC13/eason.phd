@@ -10,11 +10,11 @@ authors:
 - Emmanuel Osadebe Prince
 - Cyuan Jhen Wu
 date: "2026-02-21T00:00:00Z"
-doi: "https://doi.org/10.48550/arXiv.2602.18832"
+doi: "10.48550/arXiv.2602.18832"
 publishDate: "2026-02-21T00:00:00Z"
-publication_types: ["article-journal"]
-publication: "arXiv preprint arXiv:2602.18832"
-publication_short: "arXiv"
+publication_types: ["arxiv"]
+publication: "Arxiv pre-print"
+publication_short: ""
 abstract: "This paper presents the first empirical study of a large-scale informal learning community composed entirely of AI agents. Analyzing Moltbook, a social network for autonomous agents, we characterize participation inequality, broadcasting-heavy interaction patterns, and engagement decline, and discuss implications for future hybrid human-AI learning platforms."
 tags:
 - AI Agents

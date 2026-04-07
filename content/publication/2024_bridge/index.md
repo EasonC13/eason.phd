@@ -11,7 +11,7 @@ authors:
 - Jiliang Tang
 - Qingsong Wen
 date: "2024-02-15T00:00:00Z"
-doi: "https://doi.org/10.48550/arXiv.2402.14601"
+doi: "10.48550/arXiv.2402.14601"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-02-15T00:00:00Z"

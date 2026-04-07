@@ -8,7 +8,7 @@ authors:
 - Jionghao Lin
 - Ruizhe Li
 date: "2024-11-25T00:00:00Z"
-doi: "https://doi.org/10.58459/icce.2024.4809"
+doi: "10.58459/icce.2024.4809"
 publishDate: "2024-11-25T00:00:00Z"
 publication_types: ["paper-conference"]
 publication: "International Conference on Computers in Education (ICCE 2024)"
