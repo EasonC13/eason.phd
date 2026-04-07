@@ -47,3 +47,4 @@ Sometimes the right support is a relevant slide. Sometimes it is a speaking avat
 4. [MuFIN: A Framework for Automating Multimodal Feedback Generation using Generative Artificial Intelligence](../../publication/mufin_las_2024/)
 5. [How Can I Improve? Using GPT to Highlight the Desired and Undesired Parts of Open-ended Responses](../../publication/how_can_i_improve_edm_2024/)
 6. [Improving Assessment of Tutoring Practices using Retrieval-Augmented Generation](../../publication/2024_bridge/)
+7. [VTutor for High-Impact Tutoring at Scale: Managing Engagement and Real-Time Multi-Screen Monitoring with P2P Connections](../../publication/vtutor_high_impact_2025/)

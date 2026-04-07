@@ -41,3 +41,4 @@ If future learning environments include both humans and autonomous AI agents, th
 ## Related Papers
 
 1. [OpenClaw AI Agents as Informal Learners at Moltbook: Characterizing an Emergent Learning Community at Scale](../../publication/openclaw_moltbook_2026/)
+2. [When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community](../../publication/ai_agents_teach_each_other_2026/)
