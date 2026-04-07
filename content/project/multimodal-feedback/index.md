@@ -31,6 +31,7 @@ This project direction explores what happens when AI feedback becomes **multimod
 - **SlideItRight** studies whether retrieving relevant slides together with AI feedback improves learning.
 - **Avalon** designs a human-in-the-loop grading workflow with instructor calibration and student self-assessment.
 - **MuFIN** frames the broader idea of automating multimodal feedback generation with generative AI.
+- **Tutor feedback assessment** studies how LLMs can assess tutoring practices and highlight specific strengths or weaknesses in open-ended responses.
 
 ## Why these belong together
 
@@ -44,3 +45,5 @@ Sometimes the right support is a relevant slide. Sometimes it is a speaking avat
 2. [SlideItRight: Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions](../../publication/slideitright_aied_2025/)
 3. [Avalon: A Human-in-the-Loop LLM Grading System with Instructor Calibration and Student Self-assessment](../../publication/avalon_aied_2025/)
 4. [MuFIN: A Framework for Automating Multimodal Feedback Generation using Generative Artificial Intelligence](../../publication/mufin_las_2024/)
+5. [How Can I Improve? Using GPT to Highlight the Desired and Undesired Parts of Open-ended Responses](../../publication/how_can_i_improve_edm_2024/)
+6. [Improving Assessment of Tutoring Practices using Retrieval-Augmented Generation](../../publication/2024_bridge/)

@@ -1,47 +1,45 @@
 ---
-title: "Bringing generative AI to adaptive learning in education"
+title: "Improving Assessment of Tutoring Practices using Retrieval-Augmented Generation"
 authors:
-- Hang Li
-- Tianlong Xu
-- Chaoli Zhang
+- Zifei F. Han
+- Jionghao Lin
+- Ashish Gurung
+- Danielle R. Thomas
 - admin
-- Jing Liang
-- Xing Fan
-- Haoyang Li
-- Jiliang Tang
-- Qingsong Wen
-date: "2024-02-15T00:00:00Z"
-doi: "10.48550/arXiv.2402.14601"
+- Conrad Borchers
+- Shivang Gupta
+- Kenneth R. Koedinger
+date: "2024-02-26T00:00:00Z"
+doi: "10.48550/arXiv.2402.14594"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-02-15T00:00:00Z"
+publishDate: "2024-02-26T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["arxiv"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Arxiv pre-print"
-# publication_short: ""
+publication: "AAAI 2024 Workshop on AI for Education: Bridging Innovation and Responsibility (PMLR 257)"
+publication_short: "AAAI Bridge 2024"
 
-abstract: "The recent surge in generative AI technologies, such as large language models and diffusion models, has boosted the development of AI applications in various domains, including science, finance, and education. Concurrently, adaptive learning, a concept that has gained substantial interest in the educational sphere, has proven its efficacy in enhancing students' learning efficiency. In this position paper, we aim to shed light on the intersectional studies of these two methods, which combine generative AI with adaptive learning concepts. By presenting discussions about the benefits, challenges, and potentials in this field, we argue that this union will contribute significantly to the development of the next-stage learning format in education."
+abstract: "This paper studies how large language models can assess tutoring practices, especially social-emotional tutoring strategies, in realistic tutoring data. Comparing several prompting approaches, it finds that retrieval-augmented generation gives the strongest balance of assessment quality, hallucination reduction, and cost efficiency for scalable tutor training and feedback."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-# - AI Pair Programming
-# - Large Language Models
-# - Prompt Engineering
-# - Copilot
-# - ChatGPT
+- Tutoring
+- Retrieval-Augmented Generation
+- Assessment
+- Education
 featured: false
 
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://arxiv.org/pdf/2402.14601
+url_pdf: https://raw.githubusercontent.com/mlresearch/v257/main/assets/han24a/han24a.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
@@ -63,7 +61,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- multimodal-feedback
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

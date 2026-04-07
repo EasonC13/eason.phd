@@ -41,6 +41,7 @@ This line of work moves from developer tooling toward personalized educational s
 
 1. [GPTutor: Great Personalized Tutor with Large Language Models for Personalized Learning Content Generation](../../publication/gptutor_las_2024/)
 2. [Bringing generative AI to adaptive learning in education](../../publication/bringing_generative_ai_adaptive_learning_2024/)
+3. [Buck You: Designing Easy-to-Onboard Blockchain Applications with Zero-Knowledge Login and Sponsored Transactions on Sui](../../publication/buck_you_sui_2024/)
 3. Earlier GPTutor papers are also part of this story:
-   - [GPTutor: a ChatGPT-powered programming tool for code explanation](../../publication/gptutor_aied/)
-   - [GPTutor: an open-source AI pair programming tool alternative to Copilot](../../publication/gptutor_cscw/)
+   - [GPTutor: a ChatGPT-powered programming tool for code explanation](../../publication/GPTutor_AIED/)
+   - [GPTutor: an open-source AI pair programming tool alternative to Copilot](../../publication/GPTutor_CSCW/)

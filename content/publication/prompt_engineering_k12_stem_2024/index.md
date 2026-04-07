@@ -11,7 +11,7 @@ date: "2024-10-14T00:00:00Z"
 doi: "10.48550/arXiv.2410.11123"
 publishDate: "2024-10-14T00:00:00Z"
 publication_types: ["arxiv"]
-publication: "Arxiv pre-print"
+publication: "arXiv preprint"
 publication_short: ""
 abstract: "This systematic review analyzes empirical work from 2021 to 2024 on prompt engineering with large language models in K-12 STEM education. Following PRISMA, the study identifies common prompting strategies, model choices, evaluation methods, and limitations, and highlights the need for stronger real-world validation."
 tags:

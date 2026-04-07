@@ -12,7 +12,7 @@ date: "2025-02-06T00:00:00Z"
 doi: "10.48550/arXiv.2502.04103"
 publishDate: "2025-02-06T00:00:00Z"
 publication_types: ["arxiv"]
-publication: "Arxiv pre-print"
+publication: "arXiv preprint"
 publication_short: ""
 abstract: "VTutor is an open-source SDK for building animated pedagogical agents that combine generative AI, lip synchronization, expressive character animation, and web deployment. The system is designed to support emotionally resonant, scalable, and trustworthy multimodal human-AI interaction in educational settings."
 tags:

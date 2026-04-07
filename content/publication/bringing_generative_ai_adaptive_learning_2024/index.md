@@ -14,7 +14,7 @@ date: "2024-02-02T00:00:00Z"
 doi: "10.48550/arXiv.2402.14601"
 publishDate: "2024-02-02T00:00:00Z"
 publication_types: ["arxiv"]
-publication: "Arxiv pre-print"
+publication: "arXiv preprint"
 publication_short: ""
 abstract: "This position paper examines the intersection of generative AI and adaptive learning. It outlines the benefits, challenges, and future potential of combining large language models and other generative models with adaptive educational systems to shape the next generation of learning environments."
 tags:

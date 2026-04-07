@@ -31,7 +31,7 @@ bio: Eason is a PhD student in HCII at CMU who builds AI systems for learning, f
 # Interests to show in About widget
 interests:
   - Learning Sciences
-  - Educational Techlogy
+  - Educational Technology
   - Learning Analytics
   - AI in Education
   - Natural Language Processing
