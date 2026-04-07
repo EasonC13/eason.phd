@@ -36,4 +36,5 @@ If onboarding is too confusing, even a technically elegant system will remain ni
 ## Related Papers
 
 1. [Buck You: Designing Easy-to-Onboard Blockchain Applications with Zero-Knowledge Login and Sponsored Transactions on Sui](../../publication/buck_you_sui_2024/)
+2. [Building Random, Fair, and Verifiable Games on Blockchain: Raffle Smart Contract Designs on Sui Network](../../publication/sui_raffle_2023/)
 ---
